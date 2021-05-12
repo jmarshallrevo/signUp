@@ -1,7 +1,7 @@
 {
   "name": "LRM Registration",
   "display": "standalone",
-  "start_url": "/",
+  "start_url": "/www/",
   "short_name": "register",
   "theme_color": "#E1477E",
   "description": "This is a registration app for the LRM",
