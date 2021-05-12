@@ -17,14 +17,6 @@
     {
       "src": "assets/icons/icon_192.png",
       "sizes": "192x192"
-    },
-    {
-      "src": "assets/icons/icon_48.png",
-      "sizes": "48x48"
-    },
-    {
-      "src": "assets/icons/icon_24.png",
-      "sizes": "24x24"
     }
   ],
   "screenshots": [
